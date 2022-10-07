@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ab-sharma1
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ecommerse website
+- 💞️ I’m looking to collaborate on ecommerse website project
 - 📫 How to reach me ( gmail : abhinavsharmaji3767@gmail.com )
 
 <!---
